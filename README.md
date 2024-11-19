@@ -49,8 +49,8 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 
 ## 📫 Let's Connect!
 
-- Fcaebook: [Your Profile](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)
-- Email: [your-email@example.com](mailto:kiruluchamika2002@gmail.com)
+- Fcaebook: [Kirulu chamika](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)
+- Email: [kiruluchamika2002@gmail.com](mailto:kiruluchamika2002@gmail.com)
 
 ---
 
