@@ -56,11 +56,8 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Waving hand animation"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving Hand - Thanks for visiting!"/>
 </p>
 
-<p align="center">
-  <strong>Thanks for stopping by! Let's code something amazing together. 🚀</strong>
-</p>
 
 
