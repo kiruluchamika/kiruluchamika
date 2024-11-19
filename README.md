@@ -30,12 +30,13 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 🌟 Projects I'm Proud Of  
 
-- **[Health Insurance Management System](https://github.com/your-repo)**  
+- **[Health Insurance Management System](https://github.com/kiruluchamika/SLIIT-IWT-Project-2024)**  
   *Description*: A web-based system to manage health insurance plans, claims, and customer data efficiently.  
   **Tech Stack**: PHP, MySQL, JavaScript, CSS, HTML.  
   **Key Features**:  
@@ -55,6 +56,11 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1n7plLzMaF6LJ7w6Ja/giphy.gif" width="50" alt="Thanks for visiting!"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Waving hand animation"/>
 </p>
+
+<p align="center">
+  <strong>Thanks for stopping by! Let's code something amazing together. 🚀</strong>
+</p>
+
 
