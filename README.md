@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![banner](https://user-images.githubusercontent.com/your-image-link/banner.png)  
+![banner](https://github.com/kiruluchamika/kiruluchamika/blob/main/Black%20and%20Purple%20Futuristic%20Designer%20LinkedIn%20Background%20Photo%20.gif) 
 *Creating, Learning, and Innovating.*
 
 ---
