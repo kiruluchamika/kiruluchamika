@@ -33,15 +33,6 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
 ## 🌟 Projects I'm Proud Of  
 
 - **[Health Insurance Management System](https://github.com/your-repo)**  
@@ -58,8 +49,8 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Fcaebook: [Your Profile](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)
+- Email: [your-email@example.com](mailto:kiruluchamika2002@gmail.com)
 
 ---
 
