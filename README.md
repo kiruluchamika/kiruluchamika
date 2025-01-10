@@ -50,7 +50,7 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 
 ## 📫 Let's Connect!
 
-- Fcaebook: [Kirulu chamika](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)
+- Facebook: [Kirulu chamika](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)
 - Email: [kiruluchamika2002@gmail.com](mailto:kiruluchamika2002@gmail.com)
 
 ---
