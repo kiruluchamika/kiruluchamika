@@ -36,19 +36,6 @@ I'm an **Undergraduate Software Engineering Student** passionate about turning i
 
 ---
 
-## 🌟 Projects I'm Proud Of  
-
-- **[Health Insurance Management System](https://github.com/kiruluchamika/SLIIT-IWT-Project-2024)**  
-  *Description*: A web-based system to manage health insurance plans, claims, and customer data efficiently.  
-  **Tech Stack**: PHP, MySQL, JavaScript, CSS, HTML.  
-  **Key Features**:  
-  - Customer and admin dashboards.  
-  - Policy management and claims tracking.  
-  - Secure user authentication.  
-  - Responsive and user-friendly interface.  
-
----
-
 
 ## 📫 Let's Connect!
 
