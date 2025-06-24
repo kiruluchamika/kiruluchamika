@@ -60,6 +60,14 @@ I'm **Kirulu Chamika**, an undergraduate **Software Engineering Student** with a
 
 ---
 
+### 📱 Mobile & Design
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
 ## 📫 Let's Connect
 
 - 🌐 Facebook: [Kirulu Chamika](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)
