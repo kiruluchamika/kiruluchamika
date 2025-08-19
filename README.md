@@ -21,7 +21,7 @@
 </p>
 
 <!-- Fun animated gif link -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </a>
 
@@ -38,7 +38,7 @@ I'm **Kirulu Chamika**, an undergraduate **Software Engineering Student** with a
 - 🧠 Always curious — always coding  
 
 <!-- Fun animated gif link -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </a>
 
@@ -63,7 +63,7 @@ I'm **Kirulu Chamika**, an undergraduate **Software Engineering Student** with a
 </p>
 
 <!-- Fun animated gif link -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </a>
 
@@ -90,7 +90,7 @@ I'm **Kirulu Chamika**, an undergraduate **Software Engineering Student** with a
 </table>
 
 <!-- Fun animated gif link -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </a>
 
@@ -101,7 +101,7 @@ I'm **Kirulu Chamika**, an undergraduate **Software Engineering Student** with a
 </p>
 
 <!-- Fun animated gif link -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </a>
 
