@@ -5,6 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kirulu%20Chamika&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
 </p>
 
+
   <!-- Typing line -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=Building+polished+web+apps+end-to-end;React+%2B+Spring+Boot+%2B+Next.js+%2B+Node.js;MySQL+%2F+MongoDB+%E2%80%A2+Clean+Architecture+%E2%80%A2+UI%2FUX" alt="typing">
 </p>
